@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [3099-harshad-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3099-harshad-number) |
 <!---LeetCode Topics End-->
