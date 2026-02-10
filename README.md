@@ -18,4 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0263-ugly-number) |
 | [3099-harshad-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3099-harshad-number) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Array
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
