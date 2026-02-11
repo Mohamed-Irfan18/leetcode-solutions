@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
