@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0263-ugly-number) |
 | [3099-harshad-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3099-harshad-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Array
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
