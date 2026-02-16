@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
@@ -72,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
