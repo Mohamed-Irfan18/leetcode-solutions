@@ -4,16 +4,21 @@ class Solution
     {
       int len = nums.length;
 
-      //int high =len-1;
-      int min = Integer.MAX_VALUE;
-      //int ele = nums[0];
-      for(int i=0; i<len; i++)
+      int low =0; 
+      int high =len-1;
+
+      while(low < high)
       {
-        if(nums[i] < min)
+        int mid = (low + high)/2;
+        if(nums[mid] > nums[high])
         {
-          min = nums[i];
+          low = mid+1;
+        }
+        else if(nums[mid] < nums[high])
+        {
+          high = mid;
         }
       }
-      return min;
+        return nums[low];
     }
 }
