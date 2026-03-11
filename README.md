@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0229-majority-element-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
