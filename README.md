@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0263-ugly-number) |
 | [3099-harshad-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
