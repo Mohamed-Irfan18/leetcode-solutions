@@ -3,8 +3,8 @@ class Solution
     public int findLucky(int[] arr) 
     {
         int len = arr.length;
-        int max =-1;
-        int num =0;
+        int max = -1;
+
         HashMap<Integer, Integer> map = new HashMap<>();
         for(int i=0; i<len; i++)
         {
@@ -13,11 +13,12 @@ class Solution
 
         for(int key : map.keySet())
         {
-           if(key == map.get(key))
-           {
-            max = Math.max(max,key);
-           }
+            if(key == map.get(key))
+            {
+                max = Math.max(max, key);
+            }
         }
+
         return max;
         
     }
