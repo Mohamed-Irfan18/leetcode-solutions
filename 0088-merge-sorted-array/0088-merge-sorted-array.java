@@ -8,20 +8,26 @@ class Solution
         int index =0;
 
         while(left < m && right < n)
-        {   
+        {
             if(nums1[left] <= nums2[right])
             {
-                nums3[index++] = nums1[left++];
+                nums3[index] = nums1[left];
+                index++;
+                left++;
             }
-            else
+            else 
             {
-                nums3[index++] = nums2[right++];
+                nums3[index] =  nums2[right];
+                index++;
+                right++;
             }
         }
+
         while(left < m)
         {
             nums3[index++] = nums1[left++];
         }
+
         while(right < n)
         {
             nums3[index++] = nums2[right++];
