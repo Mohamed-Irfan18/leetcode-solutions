@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0520-detect-capital](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0520-detect-capital) |
 | [1768-merge-strings-alternately](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
