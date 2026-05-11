@@ -1,29 +1,32 @@
-import java.util.Arrays;
 class Solution 
 {
     public boolean isAnagram(String s, String t) 
     {
         int len1 = s.length();
         int len2 = t.length();
-           
-        char[] arr1 = s.toCharArray();
-        char[] arr2 = t.toCharArray();
 
         if(len1 != len2)
         {
-          return false;
+            return false;
         }
 
-        Arrays.sort(arr1);
-        Arrays.sort(arr2);
+        int[] res = new int[26];
 
         for(int i=0; i<len1; i++)
         {
-          if(arr1[i] != arr2[i])
-          return false;
-
+            res[s.charAt(i)-'a']++;
+            res[t.charAt(i)-'a']--;
         }
-            return true;
-  }
 
+        for(int num : res)
+        {
+            if(num < 0)
+            {
+                return false;
+            }
+        }
+
+        return true;
+        
+    }
 }
