@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0415-add-strings) |
 | [3099-harshad-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0844-backspace-string-compare) |
