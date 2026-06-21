@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1995-count-special-quadruplets](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3452-sum-of-good-numbers) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String Matching
 |  |
 | ------- |
