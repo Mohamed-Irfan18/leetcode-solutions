@@ -2,11 +2,18 @@ class Solution
 {
     public String removeTrailingZeros(String num) 
     {
-        int i = num.length()-1;
+        int i = num.length()-1; //i=
 
-        while(i >= 0 && num.charAt(i) == '0')
+        while(i >= 0)
         {
-            i--;
+            if(num.charAt(i) == '0')
+            {
+                i--;
+            }
+            else
+            {
+                break;
+            }
         }
 
         String ans = num.substring(0, i+1);
