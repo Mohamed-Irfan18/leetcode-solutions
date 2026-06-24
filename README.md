@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1668-maximum-repeating-substring](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0415-add-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3099-harshad-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Database
 |  |
 | ------- |
