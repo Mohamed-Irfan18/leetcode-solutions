@@ -3,33 +3,22 @@ class Solution
     public int singleNonDuplicate(int[] nums) 
     {
         int len = nums.length;
-        if(len == 1)
-        return nums[0];
+
+        HashMap<Integer, Integer> map = new HashMap<>();
 
         for(int i=0; i<len; i++)
         {
-            if(i == 0)
+            map.put(nums[i], map.getOrDefault(nums[i], 0)+1);
+        }
+
+        for(int key : map.keySet())
+        {
+            if(map.get(key) == 1)
             {
-                if(nums[i] != nums[i+1])
-                {
-                    return nums[i];
-                }
-            }
-            else if(i == len-1)
-            {
-                if(nums[i] != nums[i-1])
-                {
-                    return nums[i];
-                }
-            }
-            else
-            {
-                if(nums[i] != nums[i+1] && nums[i] != nums[i-1])
-                {
-                    return nums[i];
-                }
+                return key;
             }
         }
-        return nums[0];
+
+        return -1;
     }
 }
