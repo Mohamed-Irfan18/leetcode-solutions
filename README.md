@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Enumeration
 |  |
@@ -323,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0595-big-countries](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
