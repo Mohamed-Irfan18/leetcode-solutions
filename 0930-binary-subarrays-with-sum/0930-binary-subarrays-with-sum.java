@@ -1,0 +1,32 @@
+class Solution 
+{
+    public int numSubarraysWithSum(int[] nums, int goal) 
+    {   
+        return atMost(nums,goal) - atMost(nums,goal-1);
+    }
+    public static int atMost(int[] nums, int goal)
+    {
+        if(goal < 0)
+        {
+            return 0;
+        }
+        int len = nums.length; 
+
+        int left=0;
+        int count=0;
+        int sum =0;
+
+        for(int right=0; right<len; right++)
+        {
+            sum += nums[right];
+
+            while(sum > goal)
+            {
+                sum -= nums[left];
+                left++;
+            }
+            count += right-left+1;
+        }
+        return count;
+    }
+}
