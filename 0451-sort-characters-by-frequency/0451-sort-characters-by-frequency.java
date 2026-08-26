@@ -8,7 +8,7 @@ class Solution
 
         for(char ch : s.toCharArray())
         {
-            map.put(ch, map.getOrDefault(ch, 0)+1);
+            map.put(ch, map.getOrDefault(ch,0)+1);
         }
 
         HashSet<Character> set = new HashSet<>();
@@ -18,24 +18,23 @@ class Solution
         for(int cnt=0; cnt<map.size(); cnt++)
         {
             int max = Integer.MIN_VALUE;
-            char selec = ' ';
+            char sel = ' ';
 
-            for(char key : map.keySet())
+            for(char ch : map.keySet())
             {
-                if(!set.contains(key) && map.get(key) > max)
+                if(!set.contains(ch) && map.get(ch) > max)
                 {
-                    max = map.get(key);
-                    selec = key;
+                    max = map.get(ch);
+                    sel = ch;
                 }
             }
 
             for(int i=0; i<max; i++)
             {
-                sb.append(selec);
+                sb.append(sel);
             }
-            set.add(selec);
+            set.add(sel);
         }
-
         return sb.toString();
     }
 }
