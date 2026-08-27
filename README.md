@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0881-boats-to-save-people](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Database
@@ -414,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
