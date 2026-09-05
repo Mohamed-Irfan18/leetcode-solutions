@@ -4,31 +4,35 @@ class Solution
     {
         int len = fruits.length;
 
-        int left =0;
+        int[] freq = new int[100000];
+        int left=0;
+        int count =0;
         int max =0;
-
-        HashMap<Integer, Integer> map = new HashMap<>();
 
         for(int right=0; right<len; right++)
         {
-            map.put(fruits[right], map.getOrDefault(fruits[right],0)+1);
-
-            if(map.size() > 2)
+            if(freq[fruits[right]] == 0)
             {
-                int old = fruits[left];
-                map.put(old,map.get(old)-1);
-                if(map.get(old) == 0)
+                count++;
+            }
+            freq[fruits[right]]++;
+
+            while(count > 2)
+            {
+                freq[fruits[left]]--;
+
+                if(freq[fruits[left]] == 0)
                 {
-                    map.remove(old);
+                    count--;
                 }
                 left++;
             }
+
             if(right-left+1 > max)
             {
                 max = right-left+1;
             }
         }
         return max;
-        
     }
 }
