@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0819-most-common-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0819-most-common-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0819-most-common-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0881-boats-to-save-people](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Enumeration
