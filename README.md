@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3136-valid-word) |
+| [3913-sort-vowels-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3913-sort-vowels-by-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3913-sort-vowels-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3913-sort-vowels-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3913-sort-vowels-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3913-sort-vowels-by-frequency) |
 ## Enumeration
 |  |
 | ------- |
