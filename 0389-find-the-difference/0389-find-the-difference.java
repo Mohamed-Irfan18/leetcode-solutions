@@ -2,20 +2,26 @@ class Solution
 {
     public char findTheDifference(String s, String t)
     {
-        HashMap<Character, Integer> map = new HashMap<>();
+        int len = s.length();
+
+        int[] freq = new int[26];
 
         for(char ch : s.toCharArray())
         {
-            map.put(ch, map.getOrDefault(ch,0)+1);
+            freq[ch-'a']++;
         }
 
         for(char ch : t.toCharArray())
         {
-            if(!map.containsKey(ch) || map.get(ch) == 0)
+            freq[ch-'a']--;
+        }
+
+        for(int i=0; i<26; i++)
+        {
+            if(freq[i] == -1)
             {
-                return ch;
+                return (char)(i+'a');
             }
-            map.put(ch,map.get(ch)-1);
         }
 
         return ' ';
