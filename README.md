@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1695-maximum-erasure-value](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
+| [1748-sum-of-unique-elements](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1995-count-special-quadruplets](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1695-maximum-erasure-value](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
+| [1748-sum-of-unique-elements](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3913-sort-vowels-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3913-sort-vowels-by-frequency) |
 ## Enumeration
