@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0771-jewels-and-stones](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0917-reverse-only-letters) |
