@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1695-maximum-erasure-value](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1995-count-special-quadruplets](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2278-percentage-of-letter-in-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3913-sort-vowels-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3913-sort-vowels-by-frequency) |
 ## Enumeration
 |  |
