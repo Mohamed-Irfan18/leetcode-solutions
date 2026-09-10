@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
