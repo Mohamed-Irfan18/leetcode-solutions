@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -493,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
