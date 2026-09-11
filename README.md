@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1695-maximum-erasure-value](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1995-count-special-quadruplets](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1668-maximum-repeating-substring](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
