@@ -4,36 +4,32 @@ class Solution
     {
         int len = s.length();
 
-        HashMap<Character, Integer> map = new HashMap<>();
-
+        int[] freq = new int[128];
         for(char ch : s.toCharArray())
         {
-            map.put(ch, map.getOrDefault(ch,0)+1);
+            freq[ch]++;
         }
-
-        HashSet<Character> set = new HashSet<>();
-
+        
         StringBuilder sb = new StringBuilder();
-
-        for(int cnt=0; cnt<map.size(); cnt++)
+        while(sb.length() < s.length())
         {
-            int max = Integer.MIN_VALUE;
-            char sel = ' ';
+            int max =0;
+            char c = ' ';
 
-            for(char ch : map.keySet())
+            for(int i=0; i<128; i++)
             {
-                if(!set.contains(ch) && map.get(ch) > max)
+                if(freq[i] > max)
                 {
-                    max = map.get(ch);
-                    sel = ch;
+                     max = freq[i];
+                     c = (char)i;
                 }
             }
-
-            for(int i=0; i<max; i++)
-            {
-                sb.append(sel);
-            }
-            set.add(sel);
+            
+                for(int j=0; j<max; j++)
+                {
+                    sb.append(c);
+                }
+                freq[c] =0;
         }
         return sb.toString();
     }
