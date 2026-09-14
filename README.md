@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2347-best-poker-hand) |
+| [2404-most-frequent-even-element](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2347-best-poker-hand) |
+| [2404-most-frequent-even-element](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3151-special-array-i](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3151-special-array-i) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2347-best-poker-hand) |
+| [2404-most-frequent-even-element](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3913-sort-vowels-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3913-sort-vowels-by-frequency) |
 ## Enumeration
