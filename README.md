@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0454-4sum-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
