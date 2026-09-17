@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0881-boats-to-save-people](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1544-make-the-string-great) |
@@ -530,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
