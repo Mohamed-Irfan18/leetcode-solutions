@@ -4,9 +4,9 @@ class Solution
     {
         int len = nums.length;
 
-        int zeros =0;
+        int left=0;
+        int zeros = 0;
         int max =0;
-        int left =0;
 
         for(int right=0; right<len; right++)
         {
@@ -14,6 +14,7 @@ class Solution
             {
                 zeros++;
             }
+
             while(zeros > k)
             {
                 if(nums[left] == 0)
@@ -22,11 +23,13 @@ class Solution
                 }
                 left++;
             }
+
             if(right-left+1 > max)
             {
-                max = right-left+1;
-            }
+                max = right-left+1;            
+             }
         }
+        
         return max;
     }
 }
