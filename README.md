@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2347-best-poker-hand) |
 | [2404-most-frequent-even-element](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3913-sort-vowels-by-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3913-sort-vowels-by-frequency) |
 ## Math
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2347-best-poker-hand) |
 | [2404-most-frequent-even-element](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3151-special-array-i](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/3151-special-array-i) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Binary Search
 |  |
 | ------- |
