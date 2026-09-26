@@ -3,21 +3,27 @@ class Solution
     public int subarraySum(int[] nums, int k) 
     {
       int len = nums.length;
-      int count =0;
     
-     // HashMap<Integer, Integer> map = new HashMap<>();
+      HashMap<Integer, Integer> map = new HashMap<>();
+      map.put(0,1);
+      
+      int count =0;
+      int sum =0;
+
       for(int i=0; i<len; i++)
       {
-         int sum =0;
-         for(int j=i; j<len; j++)
+         sum += nums[i];
+
+         int req = sum - k;
+
+         if(map.containsKey(req))
          {
-           sum += nums[j];
-           if(sum == k)
-           {
-              count++;
-           }
+            count += map.get(req);
          }
+
+         map.put(sum, map.getOrDefault(sum,0)+1);
       }
+
       return count;
     }
 }
