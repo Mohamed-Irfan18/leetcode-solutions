@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1668-maximum-repeating-substring](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Mohamed-Irfan18/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
