@@ -3,35 +3,35 @@ class Solution
     public String mostCommonWord(String paragraph, String[] banned) 
     {
         String[] arr = paragraph.toLowerCase().split("[^a-z]+");
-        
-        HashMap<String, Integer> map = new HashMap<>();
-        HashSet<String> set = new HashSet<>();
 
+        HashSet<String> set = new HashSet<>();
         for(String s : banned)
         {
             set.add(s);
         }
 
-        for(String t : arr)
+        HashMap<String,Integer> map = new HashMap<>();
+        for(String s : arr)
         {
-            if(!set.contains(t))
+            if(!set.contains(s))
             {
-                map.put(t,map.getOrDefault(t,0)+1);
+                map.put(s, map.getOrDefault(s,0)+1);
             }
         }
 
-        int max =0;
         String ans = "";
+        int max =0;
 
-        for(String key : map.keySet())
+        for(String num : map.keySet())
         {
-            if(map.get(key) > max)
+            if(map.get(num) > max)
             {
-                max =  map.get(key);
-                ans = key;
+                max = map.get(num);
+                ans = num;
             }
         }
 
         return ans;
+    
     }
 }
